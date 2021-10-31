@@ -38,7 +38,7 @@
 </br>
 
 <h3>👩🏻‍💻 I’m currently working on</h3>
-<strong>Developing a moblie application called <font color="orange">'Muggl'</font> with React Native </strong>
+<strong>Developing a mobile application called <font color="orange">'Muggl'</font> with React Native </strong>
 <p>It is available for download on the App store and Play store! Glad to receive any feedback. Thanks!</p>
 <div style="flex">
   <img width="24%" src="https://user-images.githubusercontent.com/31675683/139572469-df0d9675-bb71-49d9-8859-279739b102b2.gif"/>
