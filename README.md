@@ -1,5 +1,8 @@
-<h3>👋 Hello World </h3> 
-<p> Trying to become a good front-end developer :) </p>
+<h3>👋 Hello World 👋</h3> 
+<strong> Trying to become a good front-end developer :) </strong>
+</p>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rovin0805&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>👩🏻‍💻 I’m currently working on 👩🏻‍💻</h3>
 <p> Developing a moblie application called 'Muggl' with React Native </p>
