@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:74ebd5,100:ACB6E5&height=200&section=header&text=Choi%20Eun%20Jeong&fontSize=50&fontColor=fff)
 
-<h3>👋 Hello World</h3> 
+<h3>👋 About Me</h3> 
 <strong> Trying to become a good front-end developer :) </strong>
 </p>
 
