@@ -30,9 +30,10 @@
 </div>
 </p> 
 <div style="flex;">
-  Skills that I wanna try : 
+  Skills that I wanna try :
   <img src="https://img.shields.io/badge/NextJs-000000?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GatsbyJS-663399?style=flat-square&logo=Gatsby&logoColor=white"/>
 </div>  
 </br>
 
