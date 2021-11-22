@@ -38,17 +38,6 @@
   <img src="https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=Gulp&logoColor=white"/>
 </div>  
 </br>
-
-<h3>👩🏻‍💻 I’m currently working on</h3>
-<strong>Developing a mobile application called <font color="orange">'Muggl'</font> with React Native </strong>
-<p>It is available for download on the App store and Play store! Glad to receive any feedback. Thanks!</p>
-<div style="flex">
-  <img width="24%" src="https://user-images.githubusercontent.com/31675683/139572469-df0d9675-bb71-49d9-8859-279739b102b2.gif"/>
-  <img width="24%" src="https://user-images.githubusercontent.com/31675683/139572437-6c2aea78-ac29-4cf8-832b-34dbe78f7b2b.gif" />
-  <img width="24%" src="https://user-images.githubusercontent.com/31675683/139572442-f0300860-2759-4d61-b7ec-87550f1585f9.gif"/>
-  <img width="24%" src="https://user-images.githubusercontent.com/31675683/139572447-68c6e3a4-4d4e-4cca-a8a5-e5602403f554.gif" />
-</div>
-</br>
   
 <h3>📫 How to reach me</h3>
 <p>📩 qhdrn67@naver.com</p>
