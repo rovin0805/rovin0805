@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:74ebd5,100:ACB6E5&height=150&section=header)
 
-<h3>👋 About Me</h3> 
+<!-- <h3>👋 About Me</h3> 
 <strong> Trying to become a professional front-end developer :) </strong>
-</p>
+</p> -->
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rovin0805&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rovin0805&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
