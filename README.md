@@ -17,13 +17,13 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 </div>
 </br>
 
 <h3>🌱 Skills that I've used at least once</h3>
 <div style="flex;">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Graphql-E10098?style=flat-square&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white"/>
