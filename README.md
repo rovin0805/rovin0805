@@ -38,4 +38,4 @@
 <!-- <h3>📫 How to reach me</h3>
 <p>📩 qhdrn67@naver.com</p> -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:ACB6E5,100:74ebd5&height=150&section=footer)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:ACB6E5,100:74ebd5&height=150&section=footer) -->
