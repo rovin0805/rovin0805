@@ -5,9 +5,10 @@
 </p> -->
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rovin0805&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rovin0805&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>🛠 Tech Stack</h3>
+<!--  <h3>🛠 Tech Stack</h3>
 <div style="flex">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -20,19 +21,19 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 </div>
-</br>
+</br> -->
 
-<h3>🌱 Skills that I've used at least once</h3>
+<!-- <h3>🌱 Skills that I've used at least once</h3>
 <div style="flex;">
   <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Graphql-E10098?style=flat-square&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestingLibrary-E33332?style=flat-square&logo=TestingLibrary&logoColor=white"/> -->
-</div>
-</br>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestingLibrary-E33332?style=flat-square&logo=TestingLibrary&logoColor=white"/>
+</div> 
+</br> -->
   
 <!-- <h3>📫 How to reach me</h3>
 <p>📩 qhdrn67@naver.com</p> -->
