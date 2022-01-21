@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:74ebd5,100:ACB6E5&height=150&section=header)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:74ebd5,100:ACB6E5&height=150&section=header) -->
 
 <!-- <h3>👋 About Me</h3> 
 <strong> Trying to become a professional front-end developer :) </strong>
