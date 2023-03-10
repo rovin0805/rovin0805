@@ -1,11 +1,16 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:74ebd5,100:ACB6E5&height=150&section=header) -->
 
+<!-- <div id="header" align="center"> -->
+  <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="200" />
+<!-- </div> -->
+
 <!-- <h3>👋 About Me</h3> 
 <strong> Trying to become a professional front-end developer :) </strong>
 </p> -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rovin0805&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-</br>
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rovin0805&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+</br> -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rovin0805&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--  <h3>🛠 Tech Stack</h3>
