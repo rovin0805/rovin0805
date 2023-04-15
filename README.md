@@ -1,65 +1,22 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:74ebd5,100:ACB6E5&height=150&section=header) -->
+<img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="200" />
 
-<!-- <div id="header" align="center"> -->
-  <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="200" />
-<!-- </div> -->
+# 
+![](https://github-readme-stats.vercel.app/api?username=rovin0805&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rovin0805&theme=city_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rovin0805&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- <h3>👋 About Me</h3> 
-<strong> Trying to become a professional front-end developer :) </strong>
-</p> -->
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rovin0805&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-</br> -->
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rovin0805&theme=discord&no-frame=true&no-bg=true&margin-w=4) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rovin0805&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+#
 
-<!--  <h3>🛠 Tech Stack</h3>
-<div style="flex">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactNative-0088CC?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-</div>
-</br> -->
+### 🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-<!-- <h3>🌱 Skills that I've used at least once</h3>
-<div style="flex;">
-  <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Graphql-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestingLibrary-E33332?style=flat-square&logo=TestingLibrary&logoColor=white"/>
-</div> 
-</br> -->
+<!-- [![](https://visitcount.itsvg.in/api?id=rovin0805&icon=7&color=1)](https://visitcount.itsvg.in) -->
 
-<!-- <div style="flex;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-</div> -->
-
-<div style="flex;">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactNative-0088CC?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=NextJS&logoColor=white"/>
-</div> 
-  
-<!-- <h3>📫 How to reach me</h3>
-<p>📩 qhdrn67@naver.com</p> -->
-
-<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&&color=0:ACB6E5,100:74ebd5&height=150&section=footer) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
