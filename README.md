@@ -14,8 +14,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 #
 
-### 🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃
-<img src="https://rm.up.railway.app/" width="512px"/>
+<!-- ### 🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃🙂🙃
+<img src="https://rm.up.railway.app/" width="512px"/>  -->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=rovin0805&icon=7&color=1)](https://visitcount.itsvg.in) -->
 
