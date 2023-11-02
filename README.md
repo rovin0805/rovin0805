@@ -26,6 +26,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rovin0805/rovin0805/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/rovin0805/rovin0805/output/snake.svg" alt="Snake animation" /> -->
 
 ###
